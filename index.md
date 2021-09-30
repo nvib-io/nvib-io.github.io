@@ -5,6 +5,5 @@
   ajax.send();
   document.head.innerHTML += ajax.responseText;
 </script>
-<div id="menu"></div>
 
 test
