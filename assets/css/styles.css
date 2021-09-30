@@ -36,11 +36,6 @@ body {
   font: 14px/1.5 "Roboto Mono", "Open Sans", Arial, sans-serif;
 }
 
-header h1 {
-  visibility: hidden;
-  position: relative;
-}
-
 header p.view {
   visibility: hidden;
   position: relative;
