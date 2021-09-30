@@ -3,7 +3,7 @@
   var ajax = new XMLHttpRequest();
   ajax.open("GET", "/assets/menu.html", false);
   ajax.send();
-  document.head.innerHTML += ajax.responseText;
+  document.body.innerHTML += ajax.responseText;
 </script>
 
 test
