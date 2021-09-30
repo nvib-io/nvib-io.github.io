@@ -41,12 +41,12 @@ header p.view {
   position: relative;
 }
 
-footer p {
+footer p small{
   visibility: hidden;
   position: relative;
 }
 
-footer p:after {
+footer p small:after {
     visibility: visible;
     position: absolute;
     top: 0;
