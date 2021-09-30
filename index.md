@@ -1,9 +1,10 @@
 <link rel="stylesheet" href="/assets/css/styles.css">
+
+test
+
 <script>
   var ajax = new XMLHttpRequest();
   ajax.open("GET", "/assets/menu.html", false);
   ajax.send();
-  document.body.innerHTML += ajax.responseText;
+  document.footer.innerHTML += ajax.responseText;
 </script>
-
-test
