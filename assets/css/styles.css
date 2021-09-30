@@ -35,3 +35,26 @@ body {
   font: 'Roboto Mono';
   font: 14px/1.5 "Roboto Mono", "Open Sans", Arial, sans-serif;
 }
+
+header h1 {
+  visibility: hidden;
+  position: relative;
+}
+
+header p.view {
+  visibility: hidden;
+  position: relative;
+}
+
+footer p {
+  visibility: hidden;
+  position: relative;
+}
+
+footer p:after {
+    visibility: visible;
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: "This text replaces the original.";
+}
