@@ -72,3 +72,23 @@ a:hover {
 a:active { 
   color: #3083DC; 
 }
+
+h1 a:link {
+  color: #2D332C;
+  text-decoration: underline;
+}
+
+h1 a:visited {
+  color: #2D332C;
+  text-decoration: underline;
+}
+
+h1 a:hover {
+  color: #3083DC;
+  text-decoration: underline;
+}
+
+h1 a:active {
+  color: #2D332C;
+  text-decoration: underline;
+}
