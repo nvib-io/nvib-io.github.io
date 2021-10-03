@@ -13,6 +13,11 @@ Default Text
 
 <p>Paragraph Text</p>
 
+<figure>
+  <img src="assets/box.png" alt="Trulli" style="width:100%">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
+
 <script>
 document.include('/assets/menu.html')
 </script>
