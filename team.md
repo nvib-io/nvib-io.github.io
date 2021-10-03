@@ -29,6 +29,7 @@ Daniel Molik brings IT managment and systems architecture experience to nvib. Hi
     <figcaption>Bret Kennedy</figcaption>
   </figure>
 Brett Kennedy brings executive-level business management, contract, vendor, and customer relations experience to nvib. His focus is to ensure that the company’s marketing, business development, and business operations efforts are timely and effective. In addition to being an Eagle Scout, Brett is active with the Boy Scouts of America, where he serves in leadership roles at the Troop, District, and Council levels.
+
 </span>
 
 <script>
