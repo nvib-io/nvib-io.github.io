@@ -56,3 +56,19 @@ footer p small:after {
     left: 0;
     content: "This text replaces the original.";
 }
+
+a:link { 
+  color: #3083DC;
+} 
+
+a:visited {
+color: #ECA72C; 
+}
+
+a:hover { 
+  color: #3083DC 
+}
+
+a:active { 
+  color: #3083DC; 
+}
