@@ -5,7 +5,7 @@
 
 <span id="idea" class="news">
 <h3>University of Notre Dame IDEA Center partnership</h3>
-<idea src="/assets/idea_center.jpg" alt="IDEA Center">
+<img src="/assets/idea_center.jpg" alt="IDEA Center">
 <h4>September 29, 2021</h4>
 nvib is proud to announce an agreement to join the Notre Dame IDEA Center starup runway. nvib will work with the IDEA Center through it's "De-risk" process to develop nvib's met product, and find new obusiness outlets.
 </span>
