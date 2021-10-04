@@ -2,7 +2,7 @@
 <script src="/assets/js/document_include.js"></script> 
 
   <figure>
-    <img src="/assets/buffalo.png" alt="Buffalo, NY. Photo by David Molik">
+    <img src="/assets/buffalo.jpg" alt="Buffalo, NY. Photo by David Molik">
     <figcaption>Our hometown, Buffalo NY</figcaption>
   </figure>
 
