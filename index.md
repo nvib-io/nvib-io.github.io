@@ -6,14 +6,14 @@ nvib is proud to reintroduce <code>met</code>, which has gone under a complete r
 
 <figure class="embiggen">
   <img src="/assets/met.png" alt="met ecosystem">
-  <figcaption>The met ecosystem can be deployed in the public or your private cloud</figcaption>
+  <figcaption>The met ecosystem can be deployed in the public or your private cloud (<a href="/assets/met.png">download</a>)</figcaption>
 </figure>
 
 <code>met</code> can be setup in the public cloud or on your private cloud hardware to scale your microbiome and eDNA analysis. <code>met</code> is deployed via containers which means that you have a range of deployment options to choose from.
 
 <figure class="embiggen">
   <img src="/assets/met-barcoding.png" alt="your pipeline">
-  <figcaption>Simplify your metagenomic workflow with met</figcaption>
+  <figcaption>Simplify your metagenomic workflow with met (<a href="/assets/met-barcoding.png">download</a>)</figcaption>
 </figure>
 
 you can simplify your workflow with met, saving time with automation and increasing bioinformatic possiblities. met can take raw sequence reads and process to create more than just taxon tables, it can search all of your sequences for particular species, compare all of your samples, and scale your metabarcode analyis to previously unattainable levels.
