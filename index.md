@@ -16,6 +16,8 @@ nvib is proud to reintroduce <code>met</code>, which has gone under a complete r
   <figcaption>Simplify your metagenomic workflow with met</figcaption>
 </figure>
 
+you can simplify your workflow with met, saving time with automation and increasing bioinformatic possiblities. met can take raw sequence reads and process to create more than just taxon tables, it can search all of your sequences for particular species, compare all of your samples, and scale your metabarcode analyis to previously unattainable levels.
+
 <script>
 document.include('/assets/menu.html')
 </script>
