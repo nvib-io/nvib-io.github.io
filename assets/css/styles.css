@@ -98,4 +98,6 @@ figcaption {
  letter-spacing: -1px;
 }
 
-
+figure img:hover {
+  scale: 2.3
+}
