@@ -101,3 +101,7 @@ figcaption {
 figure.embiggen img:hover {
   scale: 1.5
 }
+
+section {
+  width: 600px
+}
