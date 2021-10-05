@@ -109,3 +109,11 @@ section {
   padding: 0px 0px 0px 20px;
   border-color: #2D332C;
 }
+
+img.headshot {
+  max-width: 70%; 
+}
+
+figure.team {
+  transform: translate(10%);
+}
