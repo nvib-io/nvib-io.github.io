@@ -103,5 +103,9 @@ figure.embiggen img:hover {
 }
 
 section {
-  width: 600px
+  width: 600px;
+  border-style: none none none solid;
+  border-width: .5px;
+  padding: 0px 0px 0px 20px;
+  border-color: #2D332C;
 }
