@@ -32,7 +32,7 @@ Brett Kennedy brings executive-level business management, contract, vendor, and 
     <img src="/assets/team/dan.jpg" alt="Daniel Molik" class="headshot">
     <figcaption>Daniel Molik</figcaption>
   </figure>
-Daniel Molik brings IT managment and systems architecture experience to nvib. His focus is to design and maintain core underlying technolgies for nvib. Dan is an Eagle Scout, and is an active member ofthe Cloud Native Computing Foundation, and an active member of the Buffalo NY startup community.
+Daniel Molik brings IT managment and systems architecture experience to nvib. His focus is to consult on core underlying technolgies for nvib. Dan is an Eagle Scout, and is an active member ofthe Cloud Native Computing Foundation, and an active member of the Buffalo NY startup community.
 
 <script>
 document.include('/assets/menu.html')
