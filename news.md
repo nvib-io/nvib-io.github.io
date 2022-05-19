@@ -4,7 +4,7 @@
 <h1>News</h1>
 
 <p id="paper" class="news">
-<h3></h3>
+<h3><code>met v1</code> Offically Published</h3>
 <img src="/assets/met_paper.jpg" alt="met article">
 <h4>May 19, 2022</h4>
 nvib's <code>met</code> product has been offically published! Earlier this week the version one, the Open Source version, of Nvib's main product, <code>met</code>, came out in the Internal Society of Biocuration's journal, Oxford Database. Peer review is an important in the scientific information dissemination process and nvib is proud that it's database product has been put under review and successfully been published. <a href="https://academic.oup.com/database/article/doi/10.1093/database/baac032/6583522">
